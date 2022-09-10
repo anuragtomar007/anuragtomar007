@@ -5,7 +5,7 @@
 - We can talk about HipHop Music , if not on Programming :coffee:
 
 
-	[<img src='https://img.shields.io/badge/linkedIn-%231DA1F2.svg?&style=for-the-badge&logo=linkedIn&logoColor=white' height='40'>]([https://www.twitter.com/andy_raa007](https://www.linkedin.com/in/anurag-tomar-a052a313a))
+	[<img src='https://img.shields.io/badge/linkedIn-%231DA1F2.svg?&style=for-the-badge&logo=linkedIn&logoColor=white' height='40'>](https://www.linkedin.com/in/anurag-tomar-a052a313a))
 	[<img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://www.twitter.com/andy_raa007)
 	[<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='40'>](https://www.instagram.com/zenith_swagger/)  
 
