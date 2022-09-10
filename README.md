@@ -1,23 +1,18 @@
 ### Hi there 👋
 
-<!--
-**anuragtomar007/anuragtomar007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a **Android Developer** | **Regional level Basketball Player**
+- Here to learn and upgrade my skills
+- We can talk about HipHop Music , if not on Programming :coffee:
 
-Here are some ideas to get you started:
 
-I'm technical enthusiast who does mobile development.
+	[<img src='https://img.shields.io/badge/linkedIn-%231DA1F2.svg?&style=for-the-badge&logo=linkedIn&logoColor=white' height='40'>]([https://www.twitter.com/andy_raa007](https://www.linkedin.com/in/anurag-tomar-a052a313a))
+	[<img src='https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='40'>](https://www.twitter.com/andy_raa007)
+	[<img src='https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white' height='40'>](https://www.instagram.com/zenith_swagger/)  
 
-- :musical_note: I love to hear hiphop music.
-
-### Let's Connect :coffee:
-<p align="center">
-	<a href="https://github.com/anuragtomar007"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/anurag-tomar-a052a313a/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-@@ -32,4 +32,4 @@ Here are some ideas to get you started:
-	<a href="https://twitter.com/andy_raa007"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
-![alt text](./images/bottom.svg)
-![alt text](./images/bottom.svg)
-
--->
+### Programming Languages....
+<p align="center">
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/kotlin.png"/>
+</p>
