@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I'm a **Android Developer** | **Regional level Basketball Player**
+- I'm an **Android Developer** | **Regional level Basketball Player**
 - Here to learn and upgrade my skills
 - We can talk about HipHop Music , if not on Programming :coffee:
 
